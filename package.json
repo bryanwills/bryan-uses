@@ -1,5 +1,6 @@
 {
-  "name": "bryan-uses",
+  "name": "bryan-uses-blog",
+  
   "type": "module",
   "version": "0.0.1",
   "private": true,
